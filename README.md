@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Afia! 👋
+💻 Frontend Developer | React.js Learner
+I am a passionate frontend developer who loves creating modern, responsive, and user-friendly websites.
 
-<!--
-**Afia7861/Afia7861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy learning new technologies and turning creative ideas into real-world web applications.
 
-Here are some ideas to get you started:
+🚀 About Me
+🌱 Currently learning React.js
+💻 HTML, CSS & JavaScript
+🎨 Interested in UI/UX and Web Design
+🔭 Building frontend projects
+👯 Open to collaborating on web development projects
+🎯 Goal: Become a skilled Full Stack Developer
+🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 My Projects
+Coming soon! I'm working on exciting projects. Stay tuned!
+
+📊 GitHub Stats
+!GitHub Stats
+
+🌐 Connect With Me
+GitHub: https://github.com/Afia7861
+⭐ Thanks for visiting my profile!
